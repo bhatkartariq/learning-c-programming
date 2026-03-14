@@ -1,4 +1,5 @@
 #include<stdio.h>//library to start with 
+//stdio.h is called as preprocessor director
 //without include stdio you cant run the code its mandatory !!
 //int main is the main program
 //it is mandatory to use 
@@ -14,4 +15,8 @@ int main(){
     //must be written most of the time , and 
     //we can actually show that here the code ends
     // or one point of code ends
+    //<-- these are used for comments
+    /*<--these are used for commments for multiple lines-->*/
+    //some important things 
+    //\n it is used  for giving new line in print function
 }
