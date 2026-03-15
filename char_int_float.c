@@ -11,8 +11,8 @@ int main(){
     //while saving var name you can only use '_'
     //no other signs can be used !!!!
     //example below
-    int a=79;
-    int A=9090;
+    int a=79;//small a have different value 
+    int A=9090;//capital a have different value
     age=35;//age can be updated later on 
     //as a good programmer you should alaways give the variable name 
     //that is actually saying what is saved in it
